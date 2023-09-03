@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-GLMediatorDemo/Pods-GLMediatorDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GLMediator/GLMediator.framework
+${BUILT_PRODUCTS_DIR}/ModuleA/ModuleA.framework
+${BUILT_PRODUCTS_DIR}/ModuleB/ModuleB.framework

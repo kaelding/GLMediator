@@ -1,0 +1,6 @@
+framework module GLMediator {
+  umbrella header "GLMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}

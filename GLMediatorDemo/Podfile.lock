@@ -1,0 +1,28 @@
+PODS:
+  - GLMediator (1.0.0)
+  - ModuleA (1.0.0):
+    - GLMediator
+  - ModuleB (1.0.0):
+    - GLMediator
+
+DEPENDENCIES:
+  - GLMediator (from `../GLMediator`)
+  - ModuleA (from `../ModuleA`)
+  - ModuleB (from `../ModuleB`)
+
+EXTERNAL SOURCES:
+  GLMediator:
+    :path: "../GLMediator"
+  ModuleA:
+    :path: "../ModuleA"
+  ModuleB:
+    :path: "../ModuleB"
+
+SPEC CHECKSUMS:
+  GLMediator: 17263820d4d501519a1df3e5b089331abde64e9a
+  ModuleA: 3b00f5ffcea0cb75f7da8e4668460d5c32927bda
+  ModuleB: b009b8fa22a3f9bcd96229b5efbdfd55e79d51af
+
+PODFILE CHECKSUM: e8fdf6131ec03384d0afe48d569cac1dd9471ef5
+
+COCOAPODS: 1.12.1

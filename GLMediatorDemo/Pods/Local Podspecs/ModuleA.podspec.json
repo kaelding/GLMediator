@@ -1,0 +1,33 @@
+{
+  "name": "ModuleA",
+  "version": "1.0.0",
+  "summary": "GLAlert iOS SDK",
+  "description": "ZegoPluginAdapter SDK for iOS by ZEGO.",
+  "homepage": "https://www.zegocloud.com",
+  "documentation_url": "https://docs.zegocloud.com",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright © 2022-2024 ZEGO. All Rights Reserved.\n"
+  },
+  "authors": {
+    "ZEGOCLOUND": "zego.im"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "",
+    "tag": "1.0.0"
+  },
+  "source_files": "**/*.{swift}",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0"
+  ],
+  "dependencies": {
+    "GLMediator": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
